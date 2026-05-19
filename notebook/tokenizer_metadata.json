@@ -1,0 +1,5 @@
+{
+    "vocab_size": 10000,
+    "vocab_real": 10001,
+    "seq_len": 40
+}
